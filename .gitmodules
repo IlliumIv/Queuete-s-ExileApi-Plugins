@@ -226,3 +226,7 @@
 	path = Plugins/Source/Alpha
 	url = https://github.com/IlliumIv/Alpha
 	branch = master
+[submodule "Plugins/Source/MineDetonator"]
+	path = Plugins/Source/MineDetonator
+	url = https://github.com/IlliumIv/MineDetonator
+	branch = master

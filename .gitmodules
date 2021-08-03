@@ -146,10 +146,6 @@
 	path = Plugins/Source/MapsExchange
 	url = https://github.com/IlliumIv/MapsExchange
 	branch = community
-[submodule "MineDetonator"]
-	path = MineDetonator
-	url = https://github.com/IlliumIv/MineDetonator
-	branch = master
 [submodule "Plugins/Source/MinimapIcons"]
 	path = Plugins/Source/MinimapIcons
 	url = https://github.com/IlliumIv/MinimapIcons

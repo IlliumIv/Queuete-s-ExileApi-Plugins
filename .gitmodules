@@ -1,0 +1,228 @@
+[submodule "Plugins/Source/AdvancedTooltip"]
+	path = Plugins/Source/AdvancedTooltip
+	url = https://github.com/IlliumIv/AdvancedTooltip
+	branch = master
+[submodule "Plugins/Source/AdvancedUberLabLayout"]
+	path = Plugins/Source/AdvancedUberLabLayout
+	url = https://github.com/IlliumIv/AdvancedUberLabLayout
+	branch = master
+[submodule "Plugins/Source/Aim-Bot"]
+	path = Plugins/Source/Aim-Bot
+	url = https://github.com/IlliumIv/Aim-Bot
+	branch = master
+[submodule "Plugins/Source/AutoOpen"]
+	path = Plugins/Source/AutoOpen
+	url = https://github.com/IlliumIv/AutoOpen
+	branch = master
+[submodule "Plugins/Source/AutoQuit"]
+	path = Plugins/Source/AutoQuit
+	url = https://github.com/IlliumIv/AutoQuit
+	branch = master
+[submodule "Plugins/Source/AutoSkill"]
+	path = Plugins/Source/AutoSkill
+	url = https://github.com/IlliumIv/AutoSkill
+	branch = master
+[submodule "Plugins/Source/BasicFlaskRoutine"]
+	path = Plugins/Source/BasicFlaskRoutine
+	url = https://github.com/IlliumIv/BasicFlaskRoutine
+	branch = master
+[submodule "Plugins/Source/BladeFlurryCharges"]
+	path = Plugins/Source/BladeFlurryCharges
+	url = https://github.com/IlliumIv/BladeFlurryCharges
+	branch = master
+[submodule "Plugins/Source/BroodyHen"]
+	path = Plugins/Source/BroodyHen
+	url = https://github.com/IlliumIv/BroodyHen
+	branch = master
+[submodule "Plugins/Source/BuffUtil"]
+	path = Plugins/Source/BuffUtil
+	url = https://github.com/IlliumIv/BuffUtil
+	branch = community
+[submodule "Plugins/Source/Character-Data"]
+	path = Plugins/Source/Character-Data
+	url = https://github.com/IlliumIv/Character-Data
+	branch = master
+[submodule "Plugins/Source/copilot"]
+	path = Plugins/Source/copilot
+	url = https://github.com/IlliumIv/copilot
+	branch = master
+[submodule "Plugins/Source/DeliriumSpawnerHighlight"]
+	path = Plugins/Source/DeliriumSpawnerHighlight
+	url = https://github.com/IlliumIv/DeliriumSpawnerHighlight
+	branch = master
+[submodule "Plugins/Source/Delve"]
+	path = Plugins/Source/Delve
+	url = https://github.com/IlliumIv/Delve
+	branch = master
+[submodule "Plugins/Source/DelveWalls"]
+	path = Plugins/Source/DelveWalls
+	url = https://github.com/IlliumIv/DelveWalls
+	branch = master
+[submodule "Plugins/Source/DevTree"]
+	path = Plugins/Source/DevTree
+	url = https://github.com/IlliumIv/DevTree
+	branch = master
+[submodule "Plugins/Source/DPSMeter"]
+	path = Plugins/Source/DPSMeter
+	url = https://github.com/IlliumIv/DPSMeter
+	branch = master
+[submodule "Plugins/Source/EliteBar"]
+	path = Plugins/Source/EliteBar
+	url = https://github.com/IlliumIv/EliteBar
+	branch = master
+[submodule "Plugins/Source/EssenceDrainContagion"]
+	path = Plugins/Source/EssenceDrainContagion
+	url = https://github.com/IlliumIv/EssenceDrainContagion
+	branch = master
+[submodule "Plugins/Source/Exertion"]
+	path = Plugins/Source/Exertion
+	url = https://github.com/IlliumIv/Exertion
+	branch = master
+[submodule "Plugins/Source/EZVendor"]
+	path = Plugins/Source/EZVendor
+	url = https://github.com/IlliumIv/EZVendor
+	branch = master
+[submodule "Plugins/Source/FollowerV2"]
+	path = Plugins/Source/FollowerV2
+	url = https://github.com/IlliumIv/FollowerV2
+	branch = community
+[submodule "Plugins/Source/FullRareSetManager"]
+	path = Plugins/Source/FullRareSetManager
+	url = https://github.com/IlliumIv/FullRareSetManager
+	branch = master
+[submodule "Plugins/Source/GemUp"]
+	path = Plugins/Source/GemUp
+	url = https://github.com/IlliumIv/GemUp
+	branch = master
+[submodule "Plugins/Source/Get-Chaos-Value"]
+	path = Plugins/Source/Get-Chaos-Value
+	url = https://github.com/IlliumIv/Get-Chaos-Value
+	branch = master
+[submodule "Plugins/Source/HarvestHelpers"]
+	path = Plugins/Source/HarvestHelpers
+	url = https://github.com/IlliumIv/HarvestHelpers
+	branch = master
+[submodule "Plugins/Source/HealthBars"]
+	path = Plugins/Source/HealthBars
+	url = https://github.com/IlliumIv/HealthBars
+	branch = master
+[submodule "Plugins/Source/HeistIcons"]
+	path = Plugins/Source/HeistIcons
+	url = https://github.com/IlliumIv/HeistIcons
+	branch = master
+[submodule "Plugins/Source/HighlightedItems"]
+	path = Plugins/Source/HighlightedItems
+	url = https://github.com/IlliumIv/HighlightedItems
+	branch = master
+[submodule "Plugins/Source/IconsBuilder"]
+	path = Plugins/Source/IconsBuilder
+	url = https://github.com/IlliumIv/IconsBuilder
+	branch = master
+[submodule "Plugins/Source/IncursionHelpers"]
+	path = Plugins/Source/IncursionHelpers
+	url = https://github.com/IlliumIv/IncursionHelpers
+	branch = main
+[submodule "Plugins/Source/InventoryItemsAnalyzer"]
+	path = Plugins/Source/InventoryItemsAnalyzer
+	url = https://github.com/IlliumIv/InventoryItemsAnalyzer
+	branch = master
+[submodule "Plugins/Source/ItemAlert"]
+	path = Plugins/Source/ItemAlert
+	url = https://github.com/IlliumIv/ItemAlert
+	branch = master
+[submodule "Plugins/Source/ItemVisualizer"]
+	path = Plugins/Source/ItemVisualizer
+	url = https://github.com/IlliumIv/ItemVisualizer
+	branch = main
+[submodule "Plugins/Source/KillCounter"]
+	path = Plugins/Source/KillCounter
+	url = https://github.com/IlliumIv/KillCounter
+	branch = master
+[submodule "Plugins/Source/MapNotify"]
+	path = Plugins/Source/MapNotify
+	url = https://github.com/IlliumIv/MapNotify
+	branch = master
+[submodule "Plugins/Source/MapsExchange"]
+	path = Plugins/Source/MapsExchange
+	url = https://github.com/IlliumIv/MapsExchange
+	branch = community
+[submodule "MineDetonator"]
+	path = MineDetonator
+	url = https://github.com/IlliumIv/MineDetonator
+	branch = master
+[submodule "Plugins/Source/MinimapIcons"]
+	path = Plugins/Source/MinimapIcons
+	url = https://github.com/IlliumIv/MinimapIcons
+	branch = master
+[submodule "Plugins/Source/MiscInformation"]
+	path = Plugins/Source/MiscInformation
+	url = https://github.com/IlliumIv/MiscInformation
+	branch = master
+[submodule "Plugins/Source/OnlyGoodMaps"]
+	path = Plugins/Source/OnlyGoodMaps
+	url = https://github.com/IlliumIv/OnlyGoodMaps
+	branch = master
+[submodule "Plugins/Source/PassiveSkillTreePlanter"]
+	path = Plugins/Source/PassiveSkillTreePlanter
+	url = https://github.com/IlliumIv/PassiveSkillTreePlanter
+	branch = master
+[submodule "Plugins/Source/Pickit"]
+	path = Plugins/Source/Pickit
+	url = https://github.com/IlliumIv/Pickit
+	branch = master
+[submodule "Plugins/Source/PreloadAlert"]
+	path = Plugins/Source/PreloadAlert
+	url = https://github.com/IlliumIv/PreloadAlert
+	branch = community
+[submodule "Plugins/Source/Prophet"]
+	path = Plugins/Source/Prophet
+	url = https://github.com/IlliumIv/Prophet
+	branch = master
+[submodule "Plugins/Source/ProximityAlert"]
+	path = Plugins/Source/ProximityAlert
+	url = https://github.com/IlliumIv/ProximityAlert
+	branch = master
+[submodule "Plugins/Source/Random Features"]
+	path = Plugins/Source/Random Features
+	url = https://github.com/IlliumIv/Random-Features
+	branch = master
+[submodule "Plugins/Source/ScourgeArrowCharges"]
+	path = Plugins/Source/ScourgeArrowCharges
+	url = https://github.com/IlliumIv/ScourgeArrowCharges
+	branch = master
+[submodule "Plugins/Source/ShowThemAll"]
+	path = Plugins/Source/ShowThemAll
+	url = https://github.com/IlliumIv/ShowThemAll
+	branch = master
+[submodule "Plugins/Source/SkillDPS"]
+	path = Plugins/Source/SkillDPS
+	url = https://github.com/IlliumIv/SkillDPS
+	branch = master
+[submodule "Plugins/Source/SpectreBodies"]
+	path = Plugins/Source/SpectreBodies
+	url = https://github.com/IlliumIv/SpectreBodies
+	branch = master
+[submodule "Plugins/Source/Stashie"]
+	path = Plugins/Source/Stashie
+	url = https://github.com/IlliumIv/Stashie
+	branch = master
+[submodule "Plugins/Source/Tradie"]
+	path = Plugins/Source/Tradie
+	url = https://github.com/IlliumIv/Tradie
+	branch = master
+[submodule "Plugins/Source/UnstackDecks"]
+	path = Plugins/Source/UnstackDecks
+	url = https://github.com/IlliumIv/UnstackDecks
+	branch = community
+[submodule "Plugins/Source/VmsHelper"]
+	path = Plugins/Source/VmsHelper
+	url = https://github.com/IlliumIv/VmsHelper
+	branch = master
+[submodule "Plugins/Source/XpBar"]
+	path = Plugins/Source/XpBar
+	url = https://github.com/IlliumIv/XpBar
+	branch = master
+[submodule "Plugins/Source/Alpha"]
+	path = Plugins/Source/Alpha
+	url = https://github.com/IlliumIv/Alpha
+	branch = master

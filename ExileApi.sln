@@ -17,7 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csp
 		{55975B45-4578-4D24-91B8-BDC672F10B97} = {55975B45-4578-4D24-91B8-BDC672F10B97}
 		{1434574C-9D2E-4CDC-A1B5-F54E9D794F27} = {1434574C-9D2E-4CDC-A1B5-F54E9D794F27}
 		{4EBA974C-AC8C-42A5-B8EE-5AD318B6D961} = {4EBA974C-AC8C-42A5-B8EE-5AD318B6D961}
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
 		{FF618863-E6C4-44A2-B313-18D727AE6AC0} = {FF618863-E6C4-44A2-B313-18D727AE6AC0}
 		{1DF43765-FF6E-478D-8D85-55C07AE137DE} = {1DF43765-FF6E-478D-8D85-55C07AE137DE}
 		{B6ADAA66-DF2D-4E03-8616-E7507747D46F} = {B6ADAA66-DF2D-4E03-8616-E7507747D46F}
@@ -79,288 +78,118 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{80948544-24F3-47D0-A50E-31C5CA973040}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTooltip", "Plugins\Source\AdvancedTooltip\AdvancedTooltip.csproj", "{E15FF26B-5D91-4492-A8BD-C9F5B60D8845}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedUberLabLayout", "Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayout.csproj", "{3C72BE7E-BC50-4FD1-ABB1-70EEC9A88620}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimBot", "Plugins\Source\Aim-Bot\AimBot.csproj", "{4F0FAEE9-A059-4403-8D6B-CC0C5CBE488B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoOpen", "Plugins\Source\AutoOpen\AutoOpen.csproj", "{6D997C8E-5C70-4068-844B-E8BD951C9F42}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoQuit", "Plugins\Source\AutoQuit\AutoQuit.csproj", "{8433FCBF-E9EC-4014-8854-1F0D79D2D38D}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSkill", "Plugins\Source\AutoSkill\AutoSkill.csproj", "{F83C6ACF-9C5D-4B57-AEB4-83FEE47393E6}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicFlaskRoutine", "Plugins\Source\BasicFlaskRoutine\BasicFlaskRoutine.csproj", "{4EBA974C-AC8C-42A5-B8EE-5AD318B6D961}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladeFlurryCharges", "Plugins\Source\BladeFlurryCharges\BladeFlurryCharges.csproj", "{43C1E680-D1EF-4F12-B330-5561AD092A52}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroodyHen", "Plugins\Source\BroodyHen\BroodyHen.csproj", "{B6ADAA66-DF2D-4E03-8616-E7507747D46F}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuffUtil", "Plugins\Source\BuffUtil\BuffUtil.csproj", "{D0344191-0958-4D1B-8A24-9A518F6E2636}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "preBuild", "preBuild\preBuild.csproj", "{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterData", "Plugins\Source\Character-Data\CharacterData.csproj", "{32C7E7DD-38D3-4ABD-9FA9-9B0A12E97B2C}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoPilot", "Plugins\Source\copilot\CoPilot.csproj", "{7F319B21-26DA-4C2F-8061-597704682599}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliriumSpawnerHighlight", "Plugins\Source\DeliriumSpawnerHighlight\DeliriumSpawnerHighlight.csproj", "{86357A77-6EF8-4ED5-91FB-EDBA230B6291}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delve", "Plugins\Source\Delve\Delve.csproj", "{29FF372D-71EB-4F28-9142-FB5573281060}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelveWalls", "Plugins\Source\DelveWalls\DelveWalls.csproj", "{61BD0E34-7F45-42C8-8780-4B878C148650}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTree", "Plugins\Source\DevTree\DevTree.csproj", "{EBC7708C-CDD2-4997-A482-D39F9986DDB5}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPSMeter", "Plugins\Source\DPSMeter\DPSMeter.csproj", "{DAEAB5B7-1485-4BF3-B09C-0B9F7A5CC89B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteBar", "Plugins\Source\EliteBar\EliteBar.csproj", "{D13CD5D2-F97F-43EB-962A-116E84B23017}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssenceDrainContagion", "Plugins\Source\EssenceDrainContagion\EssenceDrainContagion.csproj", "{D13AAB32-4C49-46C8-8B1F-1887CAEA3825}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exertion", "Plugins\Source\Exertion\Exertion.csproj", "{A90F0598-19A7-4536-B89D-26FC46FC02ED}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZVendor", "Plugins\Source\EZVendor\EZVendor.csproj", "{36A8C444-46EE-489A-8C47-C5415F5EE59C}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowerV2", "Plugins\Source\FollowerV2\FollowerV2.csproj", "{266376F0-E94B-4365-9D09-72A252556DCD}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullRareSetManager", "Plugins\Source\FullRareSetManager\FullRareSetManager.csproj", "{E3EB04C1-7693-4465-9D53-129BC5EF80BA}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GemUp", "Plugins\Source\GemUp\GemUp.csproj", "{7B405C3C-18E7-41C1-9788-80667AB1A9AE}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja Price", "Plugins\Source\Get-Chaos-Value\Ninja Price\Ninja Price.csproj", "{F65A35B8-85F4-4A43-B19A-4A7E09F0CB99}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestHelpers", "Plugins\Source\HarvestHelpers\HarvestHelpers.csproj", "{F68A116F-A56C-4CBA-83C1-F52D0C3EC6C1}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBars", "Plugins\Source\HealthBars\HealthBars.csproj", "{4DEE86D7-5666-4B10-93C2-0CCEEF3799E5}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeistIcons", "Plugins\Source\HeistIcons\HeistIcons.csproj", "{FF618863-E6C4-44A2-B313-18D727AE6AC0}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlightedItems", "Plugins\Source\HighlightedItems\HighlightedItems.csproj", "{52E49CC0-2DCC-420E-99E3-AC9230C34E75}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconsBuilder", "Plugins\Source\IconsBuilder\IconsBuilder.csproj", "{0D4BAE14-C9FF-47E1-8B60-D8A859512B20}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncursionHelpers", "Plugins\Source\IncursionHelpers\IncursionHelpers.csproj", "{8DD1D586-B102-4E2B-AA32-B7D4FD0F3CA9}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryItemsAnalyzer", "Plugins\Source\InventoryItemsAnalyzer\InventoryItemsAnalyzer.csproj", "{BE5267E5-B221-458C-9B2D-451C05774A69}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemAlert", "Plugins\Source\ItemAlert\ItemAlert.csproj", "{FD3E6670-B40E-458C-9C77-A60C7C0CDA31}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemVisualizer", "Plugins\Source\ItemVisualizer\ItemVisualizer.csproj", "{2D763EAB-E942-4D73-8E43-08A3B41B41C2}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillCounter", "Plugins\Source\KillCounter\KillCounter.csproj", "{B80F3D7E-EB08-44A6-9FC0-0E704820B920}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapNotify", "Plugins\Source\MapNotify\MapNotify.csproj", "{3EF78876-ECBF-4866-8F3C-B867D88F7008}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsExchange", "Plugins\Source\MapsExchange\src\MapsExchange\MapsExchange.csproj", "{48D21D6F-16AA-42DD-BD99-66F006C9B73B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineDetonator", "Plugins\Source\MineDetonator\MineDetonator.csproj", "{BF450EFE-86F5-42AD-A32A-144B878B033B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimapIcons", "Plugins\Source\MinimapIcons\MinimapIcons.csproj", "{1AE459C5-308A-4A4E-95E3-4A87C57D2087}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscInformation", "Plugins\Source\MiscInformation\MiscInformation.csproj", "{FE6BC0C3-DB0E-4808-B99F-9C5D39AE1842}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlyGoodMaps", "Plugins\Source\OnlyGoodMaps\OnlyGoodMaps.csproj", "{C1B13FD4-C1A3-4C88-818F-4972134C362F}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassiveSkillTreePlanter", "Plugins\Source\PassiveSkillTreePlanter\PassiveSkillTreePlanter.csproj", "{CAA01498-5C8A-429F-8BB8-57E29DD05E6E}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickIt", "Plugins\Source\Pickit\PickIt.csproj", "{286EB4C6-31A1-4B8E-BF5A-83F9591AE322}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreloadAlert", "Plugins\Source\PreloadAlert\PreloadAlert.csproj", "{8B098CA6-52E6-4D70-9F00-6802AA2E464F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prophet", "Plugins\Source\Prophet\Prophet.csproj", "{1434574C-9D2E-4CDC-A1B5-F54E9D794F27}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProximityAlert", "Plugins\Source\ProximityAlert\ProximityAlert.csproj", "{55975B45-4578-4D24-91B8-BDC672F10B97}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Features", "Plugins\Source\Random Features\Random Features.csproj", "{3EFF75B6-8D15-4142-BF18-41BB03AF964A}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScourgeArrowCharges", "Plugins\Source\ScourgeArrowCharges\ScourgeArrowCharges.csproj", "{48BE2DBA-F488-4FCB-BD56-CDFE85ECF4E7}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowThemAll", "Plugins\Source\ShowThemAll\ShowThemAll.csproj", "{B7E14BA4-E124-419B-8722-CDE90577A2CB}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skill DPS", "Plugins\Source\SkillDPS\Skill DPS.csproj", "{1DF43765-FF6E-478D-8D85-55C07AE137DE}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectreBodies", "Plugins\Source\SpectreBodies\SpectreBodies.csproj", "{C1B13FD4-C3A3-AAAA-818F-497FE34C362F}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stashie", "Plugins\Source\Stashie\Stashie.csproj", "{B8C6B3D1-8D81-4350-AECE-682C96ABA88A}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tradie", "Plugins\Source\Tradie\Tradie.csproj", "{DBB3C794-72B7-4D5A-99C7-E7E59136C42D}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnstackDecks", "Plugins\Source\UnstackDecks\UnstackDecks.csproj", "{FAE04EC0-301F-11D3-BF4B-00C04F79EFCB}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VmsHelper", "Plugins\Source\VmsHelper\VmsHelper.csproj", "{BF34B5D7-0309-4F87-A3BE-DE6D4B97855C}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPBar", "Plugins\Source\XpBar\XPBar.csproj", "{C1B13FD4-C3A3-4C88-818F-497FE34C362F}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpha", "Plugins\Source\Alpha\Alpha.csproj", "{EE174786-912F-47CA-81AF-5A4955201A4B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E} = {6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -490,14 +319,6 @@ Global
 		{D0344191-0958-4D1B-8A24-9A518F6E2636}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D0344191-0958-4D1B-8A24-9A518F6E2636}.Release|x64.ActiveCfg = Release|Any CPU
 		{D0344191-0958-4D1B-8A24-9A518F6E2636}.Release|x64.Build.0 = Release|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Debug|x64.Build.0 = Debug|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Release|x64.ActiveCfg = Release|Any CPU
-		{6CCCF85F-333F-446D-BF7B-2DC91D1E9A6E}.Release|x64.Build.0 = Release|Any CPU
 		{32C7E7DD-38D3-4ABD-9FA9-9B0A12E97B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32C7E7DD-38D3-4ABD-9FA9-9B0A12E97B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C7E7DD-38D3-4ABD-9FA9-9B0A12E97B2C}.Debug|x64.ActiveCfg = Debug|Any CPU

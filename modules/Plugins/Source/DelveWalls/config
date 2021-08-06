@@ -12,3 +12,9 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[remote "vadash"]
+	url = https://github.com/vadash/DelveWalls
+	fetch = +refs/heads/*:refs/remotes/vadash/*
+[remote "SquirrelRat"]
+	url = https://github.com/SquirrelRat/DelveWalls
+	fetch = +refs/heads/*:refs/remotes/SquirrelRat/*

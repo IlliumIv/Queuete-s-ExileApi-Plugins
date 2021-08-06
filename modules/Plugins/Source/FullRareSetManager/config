@@ -12,3 +12,9 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[remote "TehCheat"]
+	url = https://github.com/TehCheat/FullRareSetManager
+	fetch = +refs/heads/*:refs/remotes/TehCheat/*
+[remote "0xE0D59"]
+	url = https://github.com/0xE0D59/FullRareSetManager
+	fetch = +refs/heads/*:refs/remotes/0xE0D59/*

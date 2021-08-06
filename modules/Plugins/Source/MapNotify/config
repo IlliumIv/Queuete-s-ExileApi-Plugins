@@ -12,3 +12,9 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[remote "snowhawk04"]
+	url = https://github.com/snowhawk04/MapNotify
+	fetch = +refs/heads/*:refs/remotes/snowhawk04/*
+[remote "0xE0D59"]
+	url = https://github.com/0xE0D59/MapNotify
+	fetch = +refs/heads/*:refs/remotes/0xE0D59/*

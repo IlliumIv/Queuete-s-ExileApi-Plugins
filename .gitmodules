@@ -97,7 +97,7 @@
 [submodule "Plugins/Source/Get-Chaos-Value"]
 	path = Plugins/Source/Get-Chaos-Value
 	url = https://github.com/IlliumIv/Get-Chaos-Value
-	branch = master
+	branch = community
 [submodule "Plugins/Source/HarvestHelpers"]
 	path = Plugins/Source/HarvestHelpers
 	url = https://github.com/IlliumIv/HarvestHelpers
@@ -165,7 +165,7 @@
 [submodule "Plugins/Source/Pickit"]
 	path = Plugins/Source/Pickit
 	url = https://github.com/IlliumIv/Pickit
-	branch = master
+	branch = community
 [submodule "Plugins/Source/PreloadAlert"]
 	path = Plugins/Source/PreloadAlert
 	url = https://github.com/IlliumIv/PreloadAlert

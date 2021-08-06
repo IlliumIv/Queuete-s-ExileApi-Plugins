@@ -12,3 +12,21 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[remote "Xcesius"]
+	url = https://github.com/Xcesius/Pickit
+	fetch = +refs/heads/*:refs/remotes/Xcesius/*
+[remote "Macaddict42"]
+	url = https://github.com/Macaddict42/Pickit
+	fetch = +refs/heads/*:refs/remotes/Macaddict42/*
+[remote "vadash"]
+	url = https://github.com/vadash/Pickit
+	fetch = +refs/heads/*:refs/remotes/vadash/*
+[remote "TehCheat"]
+	url = https://github.com/TehCheat/Pickit
+	fetch = +refs/heads/*:refs/remotes/TehCheat/*
+[remote "0xE0D59"]
+	url = https://github.com/0xE0D59/Pickit
+	fetch = +refs/heads/*:refs/remotes/0xE0D59/*
+[branch "community"]
+	remote = origin
+	merge = refs/heads/community

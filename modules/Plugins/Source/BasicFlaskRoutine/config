@@ -18,3 +18,6 @@
 [remote "sychotixdev"]
 	url = https://github.com/sychotixdev/BasicFlaskRoutine
 	fetch = +refs/heads/*:refs/remotes/sychotixdev/*
+[remote "adiko93"]
+	url = https://github.com/adiko93/BasicFlaskRoutine
+	fetch = +refs/heads/*:refs/remotes/adiko93/*

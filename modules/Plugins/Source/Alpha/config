@@ -15,3 +15,6 @@
 [remote "vadash"]
 	url = https://github.com/vadash/Alpha
 	fetch = +refs/heads/*:refs/remotes/vadash/*
+[remote "totalschaden"]
+	url = https://github.com/totalschaden/Alpha
+	fetch = +refs/heads/*:refs/remotes/totalschaden/*
